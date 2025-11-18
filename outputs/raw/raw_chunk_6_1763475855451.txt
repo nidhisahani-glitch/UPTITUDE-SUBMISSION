@@ -1,0 +1,14 @@
+```json
+{
+"Termination": [
+  {
+    "text": "Chase also reserves the right to terminate this Agreement in the event that any Restricted Content is incorporated on Affiliate's site after acceptance of your registration form and the commencement of the term of this Agreement.",
+    "start": 104,
+    "end": 132,
+    "confidence": 0.95
+  }
+],
+"Confidentiality": [],
+"Liability": []
+}
+```

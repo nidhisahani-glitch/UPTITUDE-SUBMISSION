@@ -1,0 +1,14 @@
+```json
+{
+"Termination": [
+    {
+        "text": "The Company will pay, within thirty (30) days after the effective date of termination, all amounts owing to Consultant for Services completed and accepted by the Company prior to the termination date and related reimbursable expenses, if any, submitted in accordance with the Company's policies and in accordance with the provisions of Article 1 of this Agreement.",
+        "start": 0,
+        "end": 234,
+        "confidence": 0.95
+    }
+],
+"Confidentiality": [],
+"Liability": []
+}
+```

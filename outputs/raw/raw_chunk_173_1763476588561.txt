@@ -1,0 +1,14 @@
+```json
+{
+  "Termination": [],
+  "Confidentiality": [
+    {
+      "text": "For clarity, the use of Personal Information by employees, agents and representatives of Licensor in accordance with this Privacy Exhibit does not constitute the disclosure of Personal Information by Licensor to those employees, agents and representatives.",
+      "start": 104,
+      "end": 152,
+      "confidence": 0.96
+    }
+  ],
+  "Liability": []
+}
+```

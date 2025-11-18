@@ -1,0 +1,14 @@
+```json
+{
+"Termination": [
+    {
+        "text": "either party is liquidated or dissolved (except as part of an\nassignment permitted under Section 14.1 of this Agreement).",
+        "start": 0,
+        "end": 56,
+        "confidence": 0.98
+    }
+],
+"Confidentiality": [],
+"Liability": []
+}
+```

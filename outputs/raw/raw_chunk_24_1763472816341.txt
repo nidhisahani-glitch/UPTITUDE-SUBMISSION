@@ -1,0 +1,14 @@
+```json
+{
+  "Termination": [],
+  "Confidentiality": [],
+  "Liability": [
+    {
+      "text": "Each Member will indemnify the remaining Members against all losses, costs and claims that may arise in the event of the Venture being terminated as a result of breach of the Agreement by that Member.",
+      "start": 104,
+      "end": 235,
+      "confidence": 0.98
+    }
+  ]
+}
+```

@@ -1,0 +1,14 @@
+```json
+{
+  "Termination": [],
+  "Confidentiality": [
+    {
+      "text": "Each party shall safeguard and maintain the other party's Confidential Information in strict confidence and shall not disclose, provide, or make the Confidential Information or any part thereof available in any form or medium to any person except to such party's employees, and to contractors and consultants of such party who have executed an agreement therein.",
+      "start": 0,
+      "end": 249,
+      "confidence": 0.98
+    }
+  ],
+  "Liability": []
+}
+```

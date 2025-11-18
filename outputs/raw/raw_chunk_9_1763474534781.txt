@@ -1,0 +1,20 @@
+```json
+{
+"Termination": [
+    {
+        "text": "This Agreement can be terminated at any time prior to the expiry of the Term, as follows:",
+        "start": 0,
+        "end": 124,
+        "confidence": 0.98
+    },
+    {
+        "text": "(a) by the Consultant electing to give the Company not less than 3 months prior notice of",
+        "start": 125,
+        "end": 167,
+        "confidence": 0.97
+    }
+],
+"Confidentiality": [],
+"Liability": []
+}
+```

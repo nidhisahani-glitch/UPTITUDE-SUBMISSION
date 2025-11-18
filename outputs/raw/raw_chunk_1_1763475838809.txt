@@ -1,0 +1,14 @@
+```json
+{
+  "Termination": [],
+  "Confidentiality": [
+    {
+      "text": "Affiliate certifies that you have read and understand",
+      "start": 0,
+      "end": 24,
+      "confidence": 0.98
+    }
+  ],
+  "Liability": []
+}
+```

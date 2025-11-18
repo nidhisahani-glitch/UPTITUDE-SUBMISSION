@@ -1,0 +1,14 @@
+```json
+{
+"Termination": [],
+"Confidentiality": [
+    {
+        "text": "Affiliate is prohibited from (a) installing spyware on another person's computer, (b) causing spyware to be installed on another person's computer, or (c) using a context based triggering mechanism to display an advertisement that partially or wholly covers or obscures paid advertising or other content on an Internet website in",
+        "start": 0,
+        "end": 146,
+        "confidence": 0.95
+    }
+],
+"Liability": []
+}
+```

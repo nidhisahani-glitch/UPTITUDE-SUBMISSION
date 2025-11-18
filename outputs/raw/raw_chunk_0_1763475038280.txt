@@ -1,0 +1,14 @@
+```json
+{
+  "Termination": [],
+  "Confidentiality": [
+    {
+      "text": "Commerce One hereby grants to CORIO a non-exclusive, royalty-free license to use the SOFTWARE in connection with the Services.",
+      "start": 0,
+      "end": 124,
+      "confidence": 0.98
+    }
+  ],
+  "Liability": []
+}
+```

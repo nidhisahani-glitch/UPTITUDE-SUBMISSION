@@ -1,0 +1,11 @@
+```json
+{
+  "Termination": [],
+  "Confidentiality": [
+    {
+      "text": "All matters relating to this Agreement and the Venture will be treated by the Members as confidential and no Member will disclose or allow\n"
+    }
+  ],
+  "Liability": []
+}
+```

@@ -1,0 +1,27 @@
+```json
+{
+  "Termination": [
+    {
+      "text": "Where a Member is in breach of this Agreement and that Member has not remedied the breach on notice from the Venture and after a reasonable period then the remaining Members will have the right to terminate this Agreement with regard to that individual defaulting Member (an 'Involuntary Withdrawal')",
+      "start": 0,
+      "end": 146,
+      "confidence": 0.98
+    }
+  ],
+  "Confidentiality": [],
+  "Liability": [
+    {
+      "text": "If the Venture is harmed as the result of an individual Member's action or failure to act, then that individual Member will be liable for that harm",
+      "start": 147,
+      "end": 203,
+      "confidence": 0.96
+    },
+    {
+      "text": "If more than one Member is at fault then they will be jointly and severally liable",
+      "start": 205,
+      "end": 214,
+      "confidence": 0.97
+    }
+  ]
+}
+```

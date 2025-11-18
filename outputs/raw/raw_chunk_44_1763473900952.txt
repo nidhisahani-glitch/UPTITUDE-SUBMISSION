@@ -1,0 +1,7 @@
+```json
+{
+  "Termination": [],
+  "Confidentiality": [],
+  "Liability": []
+}
+```

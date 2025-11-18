@@ -1,0 +1,21 @@
+```json
+{
+  "Termination": [],
+  "Confidentiality": [
+    {
+      "text": "Each Member is responsible only for its own actions and no Member is an agent for any other Member.",
+      "start": 104,
+      "end": 123,
+      "confidence": 0.95
+    }
+  ],
+  "Liability": [
+    {
+      "text": "Supplier’s total liability shall not exceed the fees paid by Customer in the preceding twelve (12) months.",
+      "start": 146,
+      "end": 173,
+      "confidence": 0.95
+    }
+  ]
+}
+```

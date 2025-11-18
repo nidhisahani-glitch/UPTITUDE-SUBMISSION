@@ -1,0 +1,14 @@
+```json
+{
+"Termination": [],
+"Confidentiality": [
+    {
+        "text": "g) where Confidential Information of the Licensee is also Personal Information, the provisions of this Privacy Exhibit take priority over section 7 of the Agreement in the event of any conflict.",
+        "start": 0,
+        "end": 124,
+        "confidence": 0.95
+    }
+],
+"Liability": []
+}
+```

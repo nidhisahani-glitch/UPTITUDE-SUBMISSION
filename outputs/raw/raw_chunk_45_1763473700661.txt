@@ -1,0 +1,14 @@
+```json
+{
+"Termination": [
+    {
+        "text": "If performance of the obligations by any Party under this Contract have been delayed for a period of 3 months, the other Party shall be entitled to terminate this Contract thereafter by giving notice to that effect to the Party claiming relief under Section 10, with obligatory accounts settling.",
+        "start": 24,
+        "end": 156,
+        "confidence": 0.98
+    }
+],
+"Confidentiality": [],
+"Liability": []
+}
+```

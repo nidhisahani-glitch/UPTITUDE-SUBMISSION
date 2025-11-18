@@ -1,0 +1,14 @@
+```json
+{
+  "Termination": [],
+  "Confidentiality": [],
+  "Liability": [
+    {
+      "text": "No Member will be liable to the Venture or to any other Member for any error in judgment or any act or failure to act where made in good faith. The Member will be liable for any and all acts or failures to act resulting from gross negligence or willful misconduct.",
+      "start": 0,
+      "end": 136,
+      "confidence": 0.95
+    }
+  ]
+}
+```

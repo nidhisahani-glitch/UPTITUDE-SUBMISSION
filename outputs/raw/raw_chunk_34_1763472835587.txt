@@ -1,0 +1,14 @@
+```json
+{
+"Termination": [],
+"Confidentiality": [
+    {
+        "text": "All matters relating",
+        "start": 0,
+        "end": 12,
+        "confidence": 0.98
+    }
+],
+"Liability": []
+}
+```

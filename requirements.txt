@@ -1,0 +1,31 @@
+# Core ML & Transformer Models
+transformers>=4.41.0
+accelerate>=0.29.0
+sentencepiece
+safetensors
+
+# Optional quantization (4-bit/8-bit support; skip on Windows)
+bitsandbytes>=0.42.0 ; platform_system != "Windows"
+
+# Embeddings + Semantic Search
+sentence-transformers>=2.5.1
+faiss-cpu>=1.8.0
+
+# PDF Extraction
+pdfplumber>=0.11.0
+pillow>=10.2.0
+
+# Evaluation + Metrics
+numpy>=1.26.0
+scikit-learn>=1.4.0
+rouge-score>=0.1.2
+
+# Logging & CLI UX
+tqdm>=4.66.0
+rich>=13.7.0
+
+# JSON, CSV utils
+python-dateutil>=2.8.2
+
+# GPU Support (optional)
+torch>=2.2.0

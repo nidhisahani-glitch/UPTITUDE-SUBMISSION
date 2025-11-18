@@ -1,0 +1,14 @@
+```json
+{
+  "Termination": [],
+  "Confidentiality": [
+    {
+      "text": "Notwithstanding the foregoing, Confidential Information shall not include any such information which Consultant can establish (i) was publicly known or made generally available prior to the time of disclosure to Consultant, (ii) becomes publicly known or made generally available after disclosu",
+      "start": 0,
+      "end": 156,
+      "confidence": 0.98
+    }
+  ],
+  "Liability": []
+}
+```

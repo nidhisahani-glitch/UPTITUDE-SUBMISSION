@@ -1,0 +1,14 @@
+```json
+{
+"Termination": [
+    {
+        "text": "If a Member is placed in bankruptcy, or withdraws voluntarily from the Venture, or if there is an Operation of Law against a Member, the other Members will be entitled to proceed as if the Member had breached this Agreement.",
+        "start": 0,
+        "end": 134,
+        "confidence": 0.96
+    }
+],
+"Confidentiality": [],
+"Liability": []
+}
+```

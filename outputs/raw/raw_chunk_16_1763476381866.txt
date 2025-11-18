@@ -1,0 +1,20 @@
+```json
+{
+"Termination": [
+    {
+        "text": "the winding-up, dissolution or liquidation of Reseller.",
+        "start": 0,
+        "end": 14,
+        "confidence": 0.98
+    },
+    {
+        "text": "Termination under Subsection 4(a) shall trigger a phase-out period during which Reseller may continue to provide products and services to Customers. Such phase-out period shall be the longer of (i) the remaining term of the agreement between the Reseller and its Customers, and (ii) 18 months.",
+        "start": 20,
+        "end": 164,
+        "confidence": 0.97
+    }
+],
+"Confidentiality": [],
+"Liability": []
+}
+```

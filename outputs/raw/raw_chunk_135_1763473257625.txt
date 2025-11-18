@@ -1,0 +1,21 @@
+```json
+{
+"Termination": [
+    {
+        "text": "Upon termination or expiration of this Agreement, each party shall otherwise return or destroy any Confidential Information of the other party",
+        "start": 0,
+        "end": 124,
+        "confidence": 0.95
+    }
+],
+"Confidentiality": [
+    {
+        "text": "Recipient shall keep all Confidential Information strictly confidential and shall not disclose it to any third party for five (5) years",
+        "start": 0,
+        "end": 130,
+        "confidence": 0.96
+    }
+],
+"Liability": []
+}
+```

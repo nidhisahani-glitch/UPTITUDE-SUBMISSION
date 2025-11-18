@@ -1,0 +1,14 @@
+```json
+{
+"Termination": [],
+"Confidentiality": [
+    {
+        "text": "Except as expressly provided herein, this Agreement does not give either party any ownership rights or interest in the other party's trade name, trademarks or copyrights.",
+        "start": 0,
+        "end": 146,
+        "confidence": 0.95
+    }
+],
+"Liability": []
+}
+```

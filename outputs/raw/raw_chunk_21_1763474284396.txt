@@ -1,0 +1,7 @@
+```json
+{
+"Termination": [],
+"Confidentiality": [{"text": "Neither VET TECH nor COOL TECH shall be required hereunder to defend, indemnify or hold harmless the other and/or its partners, shareholders, directors, officers, directors, employees and agents, or any of them, from any liability resulting from the negligence or wrongful acts of the party seeking indemnification or of any third-party.", "start": 0, "end": 216, "confidence": 0.95}],
+"Liability": []
+}
+```

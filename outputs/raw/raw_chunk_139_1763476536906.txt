@@ -1,0 +1,20 @@
+```json
+{
+"Termination": [
+    {
+        "text": "Upon 180 days written notice",
+        "start": 24,
+        "end": 35,
+        "confidence": 0.97
+    },
+    {
+        "text": "Reseller may terminate the AMC",
+        "start": 36,
+        "end": 47,
+        "confidence": 0.98
+    }
+],
+"Confidentiality": [],
+"Liability": []
+}
+```

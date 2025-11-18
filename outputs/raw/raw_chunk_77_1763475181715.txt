@@ -1,0 +1,14 @@
+```json
+{
+  "Termination": [],
+  "Confidentiality": [
+    {
+      "text": "Each party hereby agrees that it shall not use any Confidential Information received from the other party other than as expressly permitted under the terms of a non-disclosure agreement to be concurrently executed with this Agreement.",
+      "start": 0,
+      "end": 136,
+      "confidence": 0.95
+    }
+  ],
+  "Liability": []
+}
+```

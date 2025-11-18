@@ -1,0 +1,14 @@
+```json
+{
+"Termination": [],
+"Confidentiality": [],
+"Liability": [
+  {
+    "text": "Supplier’s total liability shall not exceed the fees paid by Customer in the preceding twelve (12) months.",
+    "start": 0,
+    "end": 116,
+    "confidence": 0.95
+  }
+]
+}
+```

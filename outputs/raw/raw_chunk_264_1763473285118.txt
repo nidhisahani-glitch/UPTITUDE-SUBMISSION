@@ -1,0 +1,14 @@
+```json
+{
+  "Termination": [],
+  "Confidentiality": [
+    {
+      "text": "Each party agrees to maintain the confidentiality of the Confidential Information of the other party and to use such information only for the purposes expressly authorized herein.",
+      "start": 0,
+      "end": 126,
+      "confidence": 0.98
+    }
+  ],
+  "Liability": []
+}
+```

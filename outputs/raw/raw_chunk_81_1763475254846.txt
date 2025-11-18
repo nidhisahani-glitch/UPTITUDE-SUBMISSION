@@ -1,0 +1,14 @@
+```json
+{
+"Termination": [
+    {
+        "text": "The following Sections shall survive the termination or expiration of this Agreement for any reason:",
+        "start": 0,
+        "end": 126,
+        "confidence": 0.98
+    }
+],
+"Confidentiality": [],
+"Liability": []
+}
+```

@@ -1,0 +1,12 @@
+{
+"Termination": [],
+"Confidentiality": [
+  {
+    "text": "Each party hereby agrees that it shall not use any Confidential Information received from the other party other than as expressly permitted under the terms of the non-disclosure agreement in effect between the parties dated October 29, 1999, which is incorporated herein by reference and made a part hereof. For purposes of this Agreement, \"Confidential Information\" means the definition given to that term in such non-disclosure agreement.",
+    "start": 0,
+    "end": 164,
+    "confidence": 0.95
+  }
+],
+"Liability": []
+}

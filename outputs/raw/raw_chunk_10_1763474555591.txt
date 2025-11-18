@@ -1,0 +1,18 @@
+{
+"Termination": [
+  {
+    "text": "by the Consultant electing to give the Company not less than 3 months prior notice of such termination",
+    "start": 0,
+    "end": 41,
+    "confidence": 0.98
+  },
+  {
+    "text": "by the Company electing to give the Consultant 3 months prior notice of such termination along with a termination payment equal to the annual Consulting Fee",
+    "start": 42,
+    "end": 76,
+    "confidence": 0.95
+  }
+],
+"Confidentiality": [],
+"Liability": []
+}

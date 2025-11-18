@@ -1,0 +1,14 @@
+```json
+{
+"Termination": [],
+"Confidentiality": [
+    {
+        "text": "Nothing in this Privacy Exhibit shall be interpreted or construed to give Licensor any interest in or control of Personal Information and for greater certainty, as between Licensor and Licensee, Licensee owns and controls and shall continue to own and control Personal Information.",
+        "start": 0,
+        "end": 164,
+        "confidence": 0.95
+    }
+],
+"Liability": []
+}
+```

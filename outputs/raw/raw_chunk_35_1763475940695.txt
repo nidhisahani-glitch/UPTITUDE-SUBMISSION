@@ -1,0 +1,7 @@
+```json
+{
+"Termination": [],
+"Confidentiality": [{"text": "Affiliate hereby agrees to indemnify, defend, and hold harmless Chase, its shareholders, officers, directors, employees, agents, affiliates and their respective directors, officers, employees and agents, successors and assigns, from and against any and all claims, demands, losses, liabilities, damages or expenses (including attorneys' fees and costs) of any nature whatsoever.", "start": 0, "end": 164, "confidence": 0.98}],
+"Liability": []
+}
+```

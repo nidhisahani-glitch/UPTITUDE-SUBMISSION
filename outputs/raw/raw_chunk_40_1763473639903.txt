@@ -1,0 +1,14 @@
+```json
+{
+"Termination": [
+    {
+        "text": "If the Company fails to perform within 30 days upon notice from the Principal on nonperformance by the Company of any of its obligations under this Contract, and keeps non-performing it, then the Principal may upon expiry of the indicated 30 day period, terminate this Contract, with obligatory accounts settling.",
+        "start": 124,
+        "end": 256,
+        "confidence": 0.97
+    }
+],
+"Confidentiality": [],
+"Liability": []
+}
+```

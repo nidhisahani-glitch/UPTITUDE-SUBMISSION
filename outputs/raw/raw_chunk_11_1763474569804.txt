@@ -1,0 +1,14 @@
+```json
+{
+"Termination": [
+    {
+        "text": "the Consultant will be immediately entitled to a termination payment equal to CDN$750,000",
+        "start": 14,
+        "end": 23,
+        "confidence": 0.98
+    }
+],
+"Confidentiality": [],
+"Liability": []
+}
+```

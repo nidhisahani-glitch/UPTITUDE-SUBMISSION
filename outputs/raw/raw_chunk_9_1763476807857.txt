@@ -1,0 +1,14 @@
+```json
+{
+  "Termination": [],
+  "Confidentiality": [
+    {
+      "text": "During and after the term of this Agreement, Consultant will hold in the strictest confidence, and take all reasonable",
+      "start": 0,
+      "end": 24,
+      "confidence": 0.95
+    }
+  ],
+  "Liability": []
+}
+```

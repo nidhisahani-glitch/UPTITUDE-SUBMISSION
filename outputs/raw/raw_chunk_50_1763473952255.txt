@@ -1,0 +1,14 @@
+```json
+{
+  "Termination": [
+    {
+      "text": "Any such termination shall not relieve the breaching party from any obligation or liability arising prior to such termination.",
+      "start": 10,
+      "end": 24,
+      "confidence": 0.97
+    }
+  ],
+  "Confidentiality": [],
+  "Liability": []
+}
+```

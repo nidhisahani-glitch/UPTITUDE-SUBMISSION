@@ -1,0 +1,14 @@
+```json
+{
+  "Termination": [
+    {
+      "text": "Unless earlier terminated as provided below, this Agreement shall remain in effect until the later to occur of the date that is (x) three (3) years from the date hereof and (y) the date on which an affiliate of Freedom Mortgage is not acting as the external manager of Cherry Hill.",
+      "start": 0,
+      "end": 164,
+      "confidence": 0.98
+    }
+  ],
+  "Confidentiality": [],
+  "Liability": []
+}
+```

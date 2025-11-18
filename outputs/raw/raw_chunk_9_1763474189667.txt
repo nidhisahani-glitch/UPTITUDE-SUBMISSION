@@ -1,0 +1,14 @@
+```json
+{
+  "Termination": [
+    {
+      "text": "This Agreement shall be automatically renewed for successive one year periods unless either party gives written notice of termination to the other party at least thirty (30) days prior to the date of expiration.",
+      "start": 12,
+      "end": 54,
+      "confidence": 0.98
+    }
+  ],
+  "Confidentiality": [],
+  "Liability": []
+}
+```

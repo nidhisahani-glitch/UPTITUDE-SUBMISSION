@@ -1,0 +1,14 @@
+```json
+{
+"Termination": [
+    {
+        "text": "Upon expiration of the Initial Term, this Agreement shall automatically renew for consecutive one (1) year periods, unless terminated by Reseller within sixty (60) days prior to the expiration of the Initial Term or any renewal term, as the case may be (the Initial Term and each renewal term, collectively, the \"Term\"). Any annual renewal would be subject to the payment, if applicable, of the AMC as agreed to by the parties, however such AMC will not be less than the previous year AMC times 115%, payable in applicable quarterly instalments.",
+        "start": 0,
+        "end": 246,
+        "confidence": 0.98
+    }
+],
+"Confidentiality": [],
+"Liability": []
+}
+```

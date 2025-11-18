@@ -1,0 +1,14 @@
+```json
+{
+  "Termination": [],
+  "Confidentiality": [
+    {
+      "text": "During and after the term of this Agreement, Consultant will hold in the strictest confidence, and take all reasonable precautions to prevent any unauthorized use or disclosure of Confidential Information, and Consultant will not (i) use the Confidential Information for any purpose whatsoever other than as necessary for the performance of the Services on behalf of the Company, or (ii) disclose the Confidential Information to any third party without the prior written consent of an authorized representative of Comp",
+      "start": 0,
+      "end": 184,
+      "confidence": 0.95
+    }
+  ],
+  "Liability": []
+}
+```

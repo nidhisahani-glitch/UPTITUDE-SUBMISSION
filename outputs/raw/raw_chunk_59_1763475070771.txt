@@ -1,0 +1,14 @@
+```json
+{
+  "Termination": [],
+  "Confidentiality": [
+    {
+      "text": "Certain information on this page has been omitted and filed separately with\nthe Commission. Confidential treatment has been requested with respect to\nthe omitted portions.",
+      "start": 0,
+      "end": 132,
+      "confidence": 0.96
+    }
+  ],
+  "Liability": []
+}
+```

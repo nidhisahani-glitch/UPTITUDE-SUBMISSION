@@ -1,0 +1,14 @@
+```json
+{
+  "Termination": [],
+  "Confidentiality": [
+    {
+      "text": "Except as otherwise provided in this Agreement or with the consent of the other party hereto, each of the parties hereto agrees that all information including, without limitation, the terms of this Agreement, business and financial information, customer and vendor lists, and pricing and sales information, concerning Chase, Customer or Affiliate shall remain strictly confidential and secret and shall not be utilized, directly or indirectly, by such party for its own business purposes.",
+      "start": 0,
+      "end": 216,
+      "confidence": 0.95
+    }
+  ],
+  "Liability": []
+}
+```

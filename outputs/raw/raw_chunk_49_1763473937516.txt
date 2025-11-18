@@ -1,0 +1,14 @@
+```json
+{
+  "Termination": [
+    {
+      "text": "If the breaching party fails to remedy the material breach in such time period, the non-breaching party may terminate this Agreement by delivery of a written termination notice to the breaching party.",
+      "start": 104,
+      "end": 132,
+      "confidence": 0.95
+    }
+  ],
+  "Confidentiality": [],
+  "Liability": []
+}
+```

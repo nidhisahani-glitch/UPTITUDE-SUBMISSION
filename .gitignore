@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+.venv/
+
+# Jupyter / IPython
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Outputs
+outputs/
+*.log
+
+# PDFs and large data files
+data/full_contract_pdf/
+*.pdf
+*.csv
+
+# Models
+all-MiniLM-L6-v2/
+*.bin
+*.pt
+
+# PyTorch / Tensorflow cache
+*.ckpt
+*.h5
+
+# Other temporary files
+*.tmp
+*.swp
+*.swo

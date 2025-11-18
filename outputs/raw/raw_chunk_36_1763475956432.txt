@@ -1,0 +1,14 @@
+```json
+{
+"Termination": [],
+"Confidentiality": [
+    {
+        "text": "Except as otherwise provided in this Agreement or with the consent of the other Party, Confidential Information shall not be disclosed to any third party.",
+        "start": 0,
+        "end": 124,
+        "confidence": 0.98
+    }
+],
+"Liability": []
+}
+```

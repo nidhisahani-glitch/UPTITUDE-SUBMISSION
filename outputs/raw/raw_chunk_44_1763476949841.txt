@@ -1,0 +1,20 @@
+```json
+{
+"Termination": [
+    {
+        "text": "Either Party may terminate this Agreement upon giving the other party thirty (30) days prior written notice pursuant to Section 12.7 of this Agreement.",
+        "start": 45,
+        "end": 86,
+        "confidence": 0.9
+    },
+    {
+        "text": "The Company may terminate this Agreement immediately and without prior notice if Consultant refuses to or is unable to perform the Services or is in breach of any material provision of this Agreement.",
+        "start": 124,
+        "end": 185,
+        "confidence": 0.9
+    }
+],
+"Confidentiality": [],
+"Liability": []
+}
+```
